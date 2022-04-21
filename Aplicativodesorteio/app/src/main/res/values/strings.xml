@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aplicativo de sorteio</string>
+    <string name="click_no_bot_o_para_gerar_um_n_mero_de_0_a_10">Click no botão para gerar um número de 0 a 10</string>
+</resources>
